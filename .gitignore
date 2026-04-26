@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data (Keep local for demo, but ignore in real production)
+# data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
